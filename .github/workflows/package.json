@@ -1,8 +1,0 @@
-{
-  "name": "exemplo-ci-cd",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "echo \"Executando testes... OK!\" && exit 0",
-    "build": "echo \"Gerando build... OK!\""
-  }
-}
